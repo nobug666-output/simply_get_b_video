@@ -15,3 +15,6 @@
 1. Cookie存在有效期，失效需要重新获取；
 2. 防盗链MP4链接具备时效性；
 3. 仅供个人学习，遵守B站用户协议，禁止商用。
+
+## 参考
+https://github.com/realysy/bili-apis **B站api支持**
