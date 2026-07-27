@@ -5,7 +5,7 @@
 
 ## 使用说明
 1. 打开B站
-2. 浏览器`F12` -> `Network`，点开一个请求，找到复制完整Cookie字符串和user-agent
+2. 浏览器 `F12` -> `Network`，点开一个请求，找到复制完整Cookie字符串和user-agent
 3. 将代码内 COOKIE_RAW 替换为你的Cookie
 4. 将代码内 user-agent 替换为你的user-agent
 5. 安装requests模块
